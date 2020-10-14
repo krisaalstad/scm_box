@@ -1,0 +1,3 @@
+historisk;
+fremtidig;
+dobbling;   
